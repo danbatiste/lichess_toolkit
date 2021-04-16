@@ -2,7 +2,7 @@
 Various improvements to lichess.org.
 
 ## Features
-- Blindfold toggle button (must have keyboard entry enabled)
+- Blindfold toggle button (must have move entry by keyboard enabled)
 
 
 ## Changelog
