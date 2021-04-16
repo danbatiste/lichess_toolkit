@@ -7,3 +7,7 @@ Various improvements to lichess.org.
 
 ## Changelog
 **v1.0:** Initial commit.
+
+
+## Issues
+- Blindfold toggle button prevents user from focusing onto keyboard entry field
