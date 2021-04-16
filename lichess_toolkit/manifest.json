@@ -1,0 +1,18 @@
+{
+	"manifest_version" : 3,
+	"name": "Lichess Toolkit",
+	"version":"1.0",
+	"description": "Various improvements to lichess.org.",
+	
+		"content_scripts": [
+			{
+				"matches": [
+				"https://lichess.org/*", 
+				"http://lichess.org/*"
+				],
+				"js": ["jquery-3.6.0.min.js", "lichess.js"],
+				"css": ["lichess.css"]
+			}
+		]
+
+}

@@ -1,0 +1,18 @@
+#blindfold-toggle {
+	margin: 0 5px 0 5px;
+	padding: 2px;
+	font-size: 20px;
+	height:100%;
+	border: outset #777;
+	background-color: #777;
+}
+
+#blindfold-toggle:focus {
+	outline: none;
+}
+
+.blindfold #blindfold-toggle {
+	background-color: green;
+	border: inset green;
+	user-select: none;
+}
